@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center;    
+}
+
+.body {
+    background-color: rgb(0, 0, 0);
+}
+
+
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 70px;   
+    align-items: center;  
+    text-align: center;
+}
+
+.logo {   
+   margin: auto;    
+}
+
+button {
+    padding: 20px;
+    border: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1em;
+    transition: all .5s;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-top: 100px;  
+    text-align: center;  
+}
+
+button:hover {
+    background-color: rgb(71, 71, 71);
+}
+
+
+.bt-iniciar {
+    background-color: rgb(136, 136, 136);
+}
+
+
+.bt-pausar {
+    background-color: rgb(136, 136, 136);
+}
+
+.bt-parar {
+    background-color: rgb(136, 136, 136);
+}
